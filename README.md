@@ -6,9 +6,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning;Backend+%26+AI+Systems+Enthusiast;Building+Intelligent+Systems;Exploring+Machine+Learning+%26+System+Design;Creating+Real-World+Software+Projects" alt="Typing SVG" />
 
 </div>
 
