@@ -137,14 +137,14 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/krrish-mantri-5995aa32a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/>
 <br/>
 
-📧 krinja.krrish1306@gmail.com
+📧 krrishmantri29@gmail.com
 
 </div>
 
