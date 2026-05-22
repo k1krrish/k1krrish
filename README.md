@@ -1,60 +1,69 @@
-<h1 align="center">Hi 👋, I'm Krrish Mantri</h1>
+<div align="center">
 
-<h3 align="center">
-Artificial Intelligence & Machine Learning Undergraduate
-</h3>
+# Hi 👋, I'm Krrish Mantri
 
-<p align="center">
-Passionate about building intelligent systems, scalable backend architectures, and real-world software projects.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Undergraduate;Backend+%26+AI+Systems+Enthusiast;Building+Intelligent+Systems;Exploring+Machine+Learning+%26+System+Design" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning at VIT-AP University
+### 🚀 Artificial Intelligence & Machine Learning Undergraduate at VIT-AP University
+
+Passionate about building intelligent systems, scalable backend architectures, and real-world software projects.
+
+</div>
+
+---
+
+# 🧠 About Me
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning
 - 💻 Interested in AI systems, backend engineering, and software development
 - 📈 Exploring machine learning, APIs, system design, and financial data systems
-- ⚡ Focused on building practical projects and continuously improving technical skills
+- ⚡ Focused on building practical projects and improving technical skills
+- 🔥 Currently working on AI-driven simulation and backend environments
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql" />
 
 ### Backend & Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker,git,github,vscode" />
 
 ### AI / ML & Data
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
-<p align="center">
+<br/>
+
 Machine Learning • Pandas • NumPy • Data Analysis
-</p>
+
+</div>
 
 ---
 
-## 📌 Current Projects
+# 📌 Current Projects
 
-### 🔹 Shadow-AI-OpenEnv
+## 🔹 Shadow-AI-OpenEnv
 
 - OpenEnv simulation framework
 - AI workflow modeling
 - Behavioral analysis environment
 - Intelligent evaluation systems
 
-### 🔹 Stock Backend
+---
+
+## 🔹 Stock Backend
 
 - Financial market data backend
 - REST API architecture
@@ -63,38 +72,70 @@ Machine Learning • Pandas • NumPy • Data Analysis
 
 ---
 
-## 📚 Currently Exploring
+# 📚 Currently Exploring
 
-- Machine Learning
-- NLP & LLMs
-- Backend Engineering
-- System Design
-- Data Structures & Algorithms
+<div align="center">
 
----
+Machine Learning • NLP & LLMs • Backend Engineering • System Design • Data Structures & Algorithms
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k1krrish&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k1krrish&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1krrish&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-📧 krrishmantri29@gmail.com
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=k1krrish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1krrish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ---
 
-## ⚡ Vision
+# 🔥 GitHub Streak
 
-> Build impactful technology that solves real-world problems.
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=k1krrish&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=k1krrish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+📧 krinja.krrish1306@gmail.com
+
+</div>
+
+---
+
+# ⚡ Vision
+
+<div align="center">
+
+### Build impactful technology that solves real-world problems.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=k1krrish&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
