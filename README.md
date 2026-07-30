@@ -1,173 +1,110 @@
-<div align="center">
+<!-- ================= HERO BUTTONS ================= -->
 
-# Krrish Mantri
+<p align="center">
+  <a href="https://krrish-mantri-software-ai-engineer-portfolio.ai.studio">
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Live%20Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning;Backend+%26+AI+Systems+Enthusiast;Building+Intelligent+Systems;Exploring+Machine+Learning+%26+System+Design;Creating+Real-World+Software+Projects" alt="Typing SVG" />
+  <a href="https://github.com/k1krrish">
+    <img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
 
-</div>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge"/>
+  </a>
 
-
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=k1krrish&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧠 About Me
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s2c3BocjF3ODh1dHc3dWZnMndjMGl1dGI3a3NxNjN5cnQ1M3B2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif">
-
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning at VIT-AP University
-- 💻 Interested in AI systems, backend engineering, and software development
-- 📈 Exploring machine learning, APIs, system design, and financial data systems
-- ⚡ Focused on building practical projects and improving technical skills
-- 🚀 Passionate about creating impactful technology and intelligent workflows
-
-<br/>
-<br/>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-# ⚙️ Tech Stack
+# 🌌 Welcome to My Digital Workspace
 
-<div align="center">
+<p align="center">
 
-### Languages
+### 👋 Hi, I'm **Krrish Mantri**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql" />
+### 🚀 AI & Machine Learning Engineer
 
----
+### 💡 Building Intelligent Software • Full Stack Applications • Open Source
 
-### Backend & Development
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker,git,github,vscode" />
+</p>
 
 ---
 
-### AI / ML & Data
+## ✨ About Me
 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+I am passionate about designing intelligent systems that combine artificial intelligence, machine learning, and modern software engineering to solve meaningful real-world problems.
 
-<br/>
+My interests span:
 
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Pandas-102230?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-102230?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-102230?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📌 Current Projects
-
-<div align="center">
-
-| Project | Description |
-|---|---|
-| 🚀 Shadow-AI-OpenEnv | OpenEnv simulation framework for AI workflow modeling and intelligent evaluation systems |
-| 📈 Stock Backend | Backend system for processing and analyzing real-time financial market data |
-
-</div>
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* ⚡ Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 🚀 Agentic AI
+* 🌐 Full-Stack Development
+* 📊 Data Analytics
+* ☁️ Cloud & MLOps
 
 ---
 
-# 📚 Currently Exploring
+# 🚀 Featured Portfolio
 
-<div align="center">
+<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning;Backend+Engineering;System+Design;NLP+%26+LLMs;Data+Structures+%26+Algorithms" />
+## 🌐 Live Portfolio
 
-</div>
+### **Explore my complete portfolio showcasing AI projects, software engineering work, technical skills, certifications, and development journey.**
 
----
+### 🔗 **https://krrish-mantri-software-ai-engineer-portfolio.ai.studio**
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=k1krrish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1krrish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+# ⭐ Why Visit My Portfolio?
 
-<div align="center">
+✅ Professional Project Showcase
 
-<img src="https://streak-stats.demolab.com?user=k1krrish&theme=tokyonight&hide_border=true&background=0D1117"/>
+✅ AI & Machine Learning Projects
 
-</div>
+✅ Interactive UI
 
----
+✅ Technical Skills
 
-# 📈 Contribution Graph
+✅ Development Journey
 
-<div align="center">
+✅ Recruiter Friendly
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k1krrish&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-
-</div>
+✅ Modern Design
 
 ---
 
-# 🏆 GitHub Trophies
+# 💼 Featured AI Projects
 
-<div align="center">
+🛡️ Shadow AI Detection & Risk Scoring System
 
-<img src="https://github-profile-trophy.vercel.app/?username=k1krrish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+📈 AI Stock Intelligence Platform
 
-</div>
+🤖 Workflow Intelligence Platform
 
----
+🧠 LLM & RAG Applications
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/krrish-mantri-5995aa32a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/>
-<br/>
-
-📧 krrishmantri29@gmail.com
-
-</div>
+🌐 Full Stack AI Solutions
 
 ---
 
-# ⚡ Vision
+# 🎯 Mission
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
+> Building intelligent software that transforms complex problems into elegant AI-powered solutions while continuously learning, contributing to open source, and pushing the boundaries of modern software engineering.
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 🚀 Building impactful technology that solves real-world problems.
+⭐ **If you like my work, consider giving a star to my repositories and visiting my portfolio!**
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-</div>
+</p>
