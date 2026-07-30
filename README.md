@@ -119,3 +119,118 @@ Inside you'll find:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=3"/>
 
 </p>
+
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css"/>
+
+</p>
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌐 Web Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite"/>
+
+</p>
+
+---
+
+# ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+
+</p>
+
+---
+
+# 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+---
+
+# 🛠️ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Large%20Language%20Models-00D9FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-0099FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧠 Core Areas of Interest
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 🧠 Machine Learning | ⚡ Deep Learning |
+|:-------------------------:|:-------------------:|:---------------:|
+| 🔍 Retrieval-Augmented Generation (RAG) | 💬 Large Language Models (LLMs) | 🤝 Agentic AI |
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=3"/>
+
+</p>
+
