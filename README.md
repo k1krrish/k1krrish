@@ -225,6 +225,185 @@ Inside you'll find:
 | 🔍 Retrieval-Augmented Generation (RAG) | 💬 Large Language Models (LLMs) | 🤝 Agentic AI |
 
 </div>
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<i>Here are some of the projects I've built while exploring Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.</i>
+
+</p>
+
+---
+
+## 🛡️ SAFE Enterprise
+
+> **Enterprise Shadow AI Detection & Risk Scoring Platform**
+
+An enterprise-focused AI security platform designed to detect unauthorized AI usage, analyze organizational risks, and provide intelligent insights using machine learning.
+
+### ✨ Highlights
+
+- 🧠 Machine Learning-Based Risk Analysis
+- 📊 AI Usage Monitoring
+- 📈 Risk Score Prediction
+- 📋 Interactive Dashboard
+- 🔒 Enterprise Security Focus
+
+**Tech Stack**
+
+`Python` • `Machine Learning` • `FastAPI` • `React` • `Docker`
+
+<p align="left">
+
+<a href="https://github.com/k1krrish/SAFE-enterprise">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+## 🤖 Shadow AI OpenEnv
+
+> **AI Security Research Environment**
+
+A research-focused environment for experimenting with Shadow AI detection, anomaly analysis, and intelligent AI security workflows.
+
+### ✨ Highlights
+
+- 🤖 Shadow AI Research
+- 📊 Data Analysis
+- ⚡ Intelligent Detection
+- 🔍 Risk Evaluation
+
+**Tech Stack**
+
+`Python` • `Machine Learning`
+
+<p align="left">
+
+<a href="https://github.com/k1krrish/Shadow-AI-OpenEnv">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+## 📈 Stock Backend
+
+> **AI-Powered Financial Analytics Backend**
+
+Backend services for stock market analysis with APIs designed for data processing, analytics, and integration with visualization dashboards.
+
+### ✨ Highlights
+
+- 📊 Financial Data Processing
+- 📈 Market Analytics
+- ⚡ REST APIs
+- 🔍 Intelligent Insights
+
+**Tech Stack**
+
+`FastAPI` • `Python`
+
+<p align="left">
+
+<a href="https://github.com/k1krrish/stock-backend">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+## 🌐 Personal Portfolio
+
+> **Professional AI & Software Engineering Portfolio**
+
+A modern portfolio showcasing my projects, technical skills, learning journey, and achievements.
+
+### ✨ Highlights
+
+- 🚀 Modern UI
+- 📂 Project Showcase
+- 💼 Professional Profile
+- 📱 Responsive Design
+
+**Tech Stack**
+
+`React` • `Vite`
+
+<p align="left">
+
+<a href="https://github.com/k1krrish/krrish-portfolio">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://krrish-mantri-software-ai-engineer-portfolio.ai.studio">
+
+<img src="https://img.shields.io/badge/Live%20Website-00D9FF?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+## 💻 LeetCode Solutions
+
+> **Data Structures & Algorithms Practice Repository**
+
+A growing collection of solutions to LeetCode problems, demonstrating problem-solving skills, algorithmic thinking, and clean coding practices.
+
+### ✨ Highlights
+
+- 🧩 Data Structures
+- ⚡ Algorithms
+- 🧠 Problem Solving
+- 📚 Continuous Practice
+
+**Languages**
+
+`Java` • `Python`
+
+<p align="left">
+
+<a href="https://github.com/k1krrish/Leetcode-solutions-">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 🌟 More Projects
+
+📂 Explore all my repositories here:
+
+<p align="center">
+
+<a href="https://github.com/k1krrish?tab=repositories">
+
+<img src="https://img.shields.io/badge/View%20All%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
 
 ---
 
@@ -233,4 +412,258 @@ Inside you'll find:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=3"/>
 
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=3"/>
+
+</p>
+<!-- ========================================================= -->
+<!--                  GITHUB ANALYTICS                         -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=k1krrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1krrish&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=k1krrish&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy Showcase
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=k1krrish&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=k1krrish&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/k1krrish/k1krrish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+> **Note:** The snake animation will appear after you add the GitHub Actions workflow in Part 5.
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00D9FF/k1krrish" alt="GitHub Contribution Chart"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1krrish&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k1krrish&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k1krrish&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1krrish&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1krrish&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 👀 Profile Overview
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=k1krrish&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/k1krrish?style=for-the-badge&color=00D9FF&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/k1krrish?style=for-the-badge&color=00D9FF&label=Stars"/>
+
+</p>
+
+---
+
+# 💡 Development Philosophy
+
+> *"Great software isn't just built with code—it's built with curiosity, continuous learning, and a commitment to solving meaningful problems through technology."*
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=3"/>
+
+</p>
+<!-- ========================================================= -->
+<!--                 LEARNING • GOALS • CONNECT                -->
+<!-- ========================================================= -->
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🚀 Learning Area | 📖 Focus |
+| :--------------: | :------ |
+| 🤖 Large Language Models | Prompt Engineering, Fine-Tuning |
+| 🔍 Retrieval-Augmented Generation (RAG) | Vector Databases & Knowledge Retrieval |
+| 🤝 Agentic AI | AI Agents & Multi-Agent Systems |
+| 🧠 Deep Learning | Neural Networks & Model Optimization |
+| ⚙️ MLOps | Model Deployment & Monitoring |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready AI applications
+- 🧠 Master Large Language Models (LLMs)
+- 🤝 Develop intelligent Agentic AI systems
+- 📊 Strengthen Machine Learning & Deep Learning expertise
+- 🌍 Contribute to impactful Open Source projects
+- 💼 Secure a top AI/ML internship
+- 📚 Continuously learn and build meaningful projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/k1krrish">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krrish-mantri-5995aa32a/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://krrish-mantri-software-ai-engineer-portfolio.ai.studio">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00D9FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💙 Thanks For Visiting!
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together.;Always+learning.+Always+building."/>
+
+</p>
+
+<p align="center">
+
+⭐ If you find my work interesting, consider exploring my repositories and connecting with me.
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F2027,30:203A43,60:2C5364,100:00D9FF"/>
+
+</p>
+
+<!-- ========================================================= -->
+<!--                 SNAKE ANIMATION WORKFLOW                  -->
+<!-- ========================================================= -->
+
+# 🐍 Snake Animation Setup
+
+Create the following file:
+
+```
+.github/workflows/snake.yml
+```
+
+Paste this code inside:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: k1krrish
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+
+
 
