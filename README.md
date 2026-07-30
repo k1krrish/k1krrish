@@ -1,110 +1,121 @@
-<!-- ================= HERO BUTTONS ================= -->
+<!-- ========================================================= -->
+<!--                     KRRISH MANTRI                         -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <a href="https://krrish-mantri-software-ai-engineer-portfolio.ai.studio">
-    <img src="https://img.shields.io/badge/🚀%20Portfolio-Live%20Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
 
-  <a href="https://github.com/k1krrish">
-    <img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,30:203A43,60:2C5364,100:00D9FF&text=KRRISH%20MANTRI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge"/>
-  </a>
-
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
 </p>
 
----
-
-# 🌌 Welcome to My Digital Workspace
-
 <p align="center">
 
-### 👋 Hi, I'm **Krrish Mantri**
-
-### 🚀 AI & Machine Learning Engineer
-
-### 💡 Building Intelligent Software • Full Stack Applications • Open Source
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Open+Source+Contributor;Building+AI+That+Solves+Real+World+Problems;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI;Always+Learning+Something+New+🚀"/>
 
 </p>
 
 ---
 
-## ✨ About Me
-
-I am passionate about designing intelligent systems that combine artificial intelligence, machine learning, and modern software engineering to solve meaningful real-world problems.
-
-My interests span:
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* ⚡ Large Language Models (LLMs)
-* 🔍 Retrieval-Augmented Generation (RAG)
-* 🚀 Agentic AI
-* 🌐 Full-Stack Development
-* 📊 Data Analytics
-* ☁️ Cloud & MLOps
-
----
-
-# 🚀 Featured Portfolio
-
 <p align="center">
 
-## 🌐 Live Portfolio
+<a href="https://krrish-mantri-software-ai-engineer-portfolio.ai.studio">
 
-### **Explore my complete portfolio showcasing AI projects, software engineering work, technical skills, certifications, and development journey.**
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-00D9FF?style=for-the-badge"/>
 
-### 🔗 **https://krrish-mantri-software-ai-engineer-portfolio.ai.studio**
+</a>
+
+<a href="https://github.com/k1krrish">
+
+<img src="https://img.shields.io/badge/GitHub-k1krrish-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/krrish-mantri-5995aa32a/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Krrish%20Mantri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
 
 </p>
 
 ---
 
-# ⭐ Why Visit My Portfolio?
+<p align="center">
 
-✅ Professional Project Showcase
+<img src="https://komarev.com/ghpvc/?username=k1krrish&label=Profile%20Views&color=00d9ff&style=for-the-badge"/>
 
-✅ AI & Machine Learning Projects
+<img src="https://img.shields.io/github/followers/k1krrish?style=for-the-badge&color=00d9ff"/>
 
-✅ Interactive UI
+<img src="https://img.shields.io/github/stars/k1krrish?style=for-the-badge&color=00d9ff"/>
 
-✅ Technical Skills
-
-✅ Development Journey
-
-✅ Recruiter Friendly
-
-✅ Modern Design
+</p>
 
 ---
 
-# 💼 Featured AI Projects
+<img align="right" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🛡️ Shadow AI Detection & Risk Scoring System
+# 💫 About Me
 
-📈 AI Stock Intelligence Platform
+🚀 Hi! I'm **Krrish Mantri**, an AI & Machine Learning enthusiast passionate about designing intelligent systems that solve real-world problems.
 
-🤖 Workflow Intelligence Platform
+My interests span across **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, and **Data Analytics**.
 
-🧠 LLM & RAG Applications
-
-🌐 Full Stack AI Solutions
+I enjoy building intelligent AI applications, experimenting with emerging technologies, contributing to open source, and continuously expanding my knowledge of modern artificial intelligence.
 
 ---
 
-# 🎯 Mission
+# 💡 What I'm Currently Working On
 
-> Building intelligent software that transforms complex problems into elegant AI-powered solutions while continuously learning, contributing to open source, and pushing the boundaries of modern software engineering.
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- ⚡ Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤝 Agentic AI
+- 📊 Data Analytics
+- 🚀 Open Source
+
+---
+
+# 🌍 Portfolio
+
+## 🚀 Explore My Complete Portfolio
+
+### 🌐 **https://krrish-mantri-software-ai-engineer-portfolio.ai.studio**
+
+Inside you'll find:
+
+✨ AI Projects
+
+✨ Machine Learning Work
+
+✨ Technical Skills
+
+✨ Resume
+
+✨ Contact Information
+
+---
+
+# ⚡ Quick Facts
+
+🎓 AI & Machine Learning Student
+
+🧠 Machine Learning Engineer
+
+🤖 AI Enthusiast
+
+🌎 Open Source Contributor
+
+📚 Lifelong Learner
+
+💡 Passionate About Intelligent Systems
+
+☕ Coffee + Code = ❤️
 
 ---
 
 <p align="center">
 
-⭐ **If you like my work, consider giving a star to my repositories and visiting my portfolio!**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=3"/>
 
 </p>
