@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#a5f3fc"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+<radialGradient id="glow1" cx=".8" cy=".3" r=".6"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx=".1" cy=".9" r=".5"><stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="1000" height="320" rx="18"/></clipPath>
+</defs>
+<style>
+.n{animation:p 3s ease-in-out infinite}
+.e{animation:d 4s ease-in-out infinite}
+@keyframes p{0%,100%{opacity:.45}50%{opacity:1}}
+@keyframes d{0%,100%{opacity:.15}50%{opacity:.7}}
+.scan{animation:s 6s linear infinite}
+@keyframes s{from{transform:translateY(-20px)}to{transform:translateY(340px)}}
+.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.in{animation:f .9s ease backwards}
+@keyframes f{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+<g clip-path="url(#r)">
+<rect width="1000" height="320" fill="#0b0f19"/>
+<rect width="1000" height="320" fill="url(#grid)"/>
+<rect width="1000" height="320" fill="url(#glow1)"/><rect width="1000" height="320" fill="url(#glow2)"/>
+<rect class="scan" width="1000" height="2" fill="#22d3ee" opacity=".08"/>
+<line x1="640" y1="70" x2="740" y2="130" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:0.0s"/><line x1="740" y1="130" x2="860" y2="60" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:0.35s"/><line x1="860" y1="60" x2="930" y2="150" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:0.7s"/><line x1="740" y1="130" x2="800" y2="220" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:1.0499999999999998s"/><line x1="800" y1="220" x2="690" y2="250" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:1.4s"/><line x1="690" y1="250" x2="580" y2="170" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:1.75s"/><line x1="580" y1="170" x2="640" y2="70" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:2.0999999999999996s"/><line x1="580" y1="170" x2="740" y2="130" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:2.4499999999999997s"/><line x1="930" y1="150" x2="880" y2="250" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:2.8s"/><line x1="800" y1="220" x2="880" y2="250" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:3.15s"/><line x1="860" y1="60" x2="760" y2="40" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:3.5s"/><line x1="640" y1="70" x2="760" y2="40" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:3.8499999999999996s"/><line x1="740" y1="130" x2="930" y2="150" stroke="url(#g)" stroke-width="1.2" opacity=".55" class="e" style="animation-delay:4.199999999999999s"/><circle cx="640" cy="70" r="5" fill="#22d3ee" class="n" style="animation-delay:0.0s"/><circle cx="640" cy="70" r="11" fill="none" stroke="#22d3ee" opacity=".25"/><circle cx="740" cy="130" r="5" fill="#8b5cf6" class="n" style="animation-delay:0.4s"/><circle cx="740" cy="130" r="11" fill="none" stroke="#8b5cf6" opacity=".25"/><circle cx="860" cy="60" r="5" fill="#22d3ee" class="n" style="animation-delay:0.8s"/><circle cx="860" cy="60" r="11" fill="none" stroke="#22d3ee" opacity=".25"/><circle cx="930" cy="150" r="5" fill="#8b5cf6" class="n" style="animation-delay:1.2000000000000002s"/><circle cx="930" cy="150" r="11" fill="none" stroke="#8b5cf6" opacity=".25"/><circle cx="800" cy="220" r="5" fill="#22d3ee" class="n" style="animation-delay:1.6s"/><circle cx="800" cy="220" r="11" fill="none" stroke="#22d3ee" opacity=".25"/><circle cx="690" cy="250" r="5" fill="#8b5cf6" class="n" style="animation-delay:2.0s"/><circle cx="690" cy="250" r="11" fill="none" stroke="#8b5cf6" opacity=".25"/><circle cx="580" cy="170" r="5" fill="#22d3ee" class="n" style="animation-delay:2.4000000000000004s"/><circle cx="580" cy="170" r="11" fill="none" stroke="#22d3ee" opacity=".25"/><circle cx="880" cy="250" r="5" fill="#8b5cf6" class="n" style="animation-delay:2.8000000000000003s"/><circle cx="880" cy="250" r="11" fill="none" stroke="#8b5cf6" opacity=".25"/><circle cx="760" cy="40" r="5" fill="#22d3ee" class="n" style="animation-delay:3.2s"/><circle cx="760" cy="40" r="11" fill="none" stroke="#22d3ee" opacity=".25"/>
+<g class="in" style="animation-delay:.1s"><text x="56" y="82" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" fill="#22d3ee" letter-spacing="3">AI / ML ENGINEER &#183; BACKEND SYSTEMS</text></g>
+<g class="in" style="animation-delay:.3s"><text x="56" y="152" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" fill="url(#t)" letter-spacing="-1.5">Krrish Mantri</text></g>
+<g class="in" style="animation-delay:.6s"><text x="56" y="192" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94a3b8">I build retrieval systems, agents and secure AI platforms</text>
+<text x="56" y="218" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94a3b8">that hold up outside the notebook.</text></g>
+<g class="in" style="animation-delay:.9s"><rect x="56" y="248" width="150" height="34" rx="17" fill="none" stroke="#22d3ee" stroke-opacity=".5"/><circle cx="76" cy="265" r="4" fill="#34d399" class="n"/><text x="90" y="270" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#e5e7eb">Open to roles</text>
+<rect x="218" y="248" width="196" height="34" rx="17" fill="none" stroke="#8b5cf6" stroke-opacity=".5"/><text x="236" y="270" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#e5e7eb">VIT-AP &#183; B.Tech AI &amp; ML</text></g>
+</g>
+<rect x=".5" y=".5" width="999" height="319" rx="18" fill="none" stroke="#1f2937"/>
+</svg>

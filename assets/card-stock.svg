@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="210" viewBox="0 0 480 210"><defs>
+<linearGradient id="a3" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<radialGradient id="h3" cx="1" cy="0" r="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".22"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient></defs>
+<style>.sw{animation:sw 5s ease-in-out infinite alternate}@keyframes sw{from{transform:translateX(0)}to{transform:translateX(380px)}}.dot{animation:pl 2s ease-in-out infinite}@keyframes pl{50%{opacity:.3}}</style>
+<rect x=".5" y=".5" width="479" height="209" rx="14" fill="#0b0f19" stroke="#1f2937"/><rect x=".5" y=".5" width="479" height="209" rx="14" fill="url(#h3)"/>
+<rect class="sw" x="20" y="0" width="80" height="2" fill="url(#a3)"/>
+<text x="28" y="46" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">Stock Backend</text>
+<rect x="374" y="28" width="78" height="22" rx="11" fill="none" stroke="#22d3ee" stroke-opacity=".5"/><circle class="dot" cx="386" cy="39" r="3" fill="#22d3ee"/><text x="394" y="43" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" fill="#22d3ee" letter-spacing="1">BACKEND</text>
+<text x="28" y="72" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" fill="#22d3ee">Financial analytics API</text>
+<text x="28" y="108" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#94a3b8">REST services for market data processing and analytics,</text><text x="28" y="128" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#94a3b8">built to feed visualization dashboards.</text>
+<rect x="28" y="168" width="74" height="24" rx="12" fill="#8b5cf6" fill-opacity=".12" stroke="#8b5cf6" stroke-opacity=".45"/><text x="65" y="184" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#e5e7eb">FastAPI</text><rect x="110" y="168" width="66" height="24" rx="12" fill="#8b5cf6" fill-opacity=".12" stroke="#8b5cf6" stroke-opacity=".45"/><text x="143" y="184" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#e5e7eb">Python</text>
+</svg>

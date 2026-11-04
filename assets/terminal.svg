@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#00D9FF"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 15px; }
+    .p { fill: #00D9FF; }
+    .c { fill: #e6edf3; }
+    .o { fill: #7ee787; }
+    .m { fill: #7C3AED; }
+    .l { animation: show 0.01s backwards; }
+    .l1 { animation-delay: 0.4s; }
+    .l2 { animation-delay: 1.4s; }
+    .l3 { animation-delay: 2.4s; }
+    .l4 { animation-delay: 3.4s; }
+    .l5 { animation-delay: 4.4s; }
+    .l6 { animation-delay: 5.4s; }
+    @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+    .cursor { animation: blink 1s steps(1) infinite; fill: #00D9FF; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="760" height="230" rx="14" fill="url(#bg)" stroke="#30363d"/>
+  <rect width="760" height="34" rx="14" fill="#161b22"/>
+  <rect y="20" width="760" height="14" fill="#161b22"/>
+  <rect y="33" width="760" height="2" fill="url(#bar)"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="330" y="22" fill="#8b949e" font-size="12">krrish@vit-ap: ~</text>
+
+  <!-- EDIT the text below -->
+  <g class="l l1"><text x="24" y="66"><tspan class="p">$ </tspan><tspan class="c">whoami</tspan></text></g>
+  <g class="l l2"><text x="24" y="90" class="o">Krrish Mantri · AI &amp; ML Engineer in the making</text></g>
+  <g class="l l3"><text x="24" y="120"><tspan class="p">$ </tspan><tspan class="c">cat stack.txt</tspan></text></g>
+  <g class="l l4"><text x="24" y="144" class="o">Python · FastAPI · Java · SQL · Docker · React · Qdrant</text></g>
+  <g class="l l5"><text x="24" y="174"><tspan class="p">$ </tspan><tspan class="c">git status</tspan></text></g>
+  <g class="l l6"><text x="24" y="198"><tspan class="m">●</tspan><tspan class="o"> building DevIntel · researching Shadow AI risk scoring</tspan></text></g>
+  <rect class="cursor" x="24" y="208" width="9" height="3"/>
+</svg>
