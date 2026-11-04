@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snake@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: k1krrish
           outputs: |
